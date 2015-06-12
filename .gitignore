@@ -3,3 +3,5 @@
 !Assets/
 !ProjectSettings/
 !.gitignore
+
+Assets/UnityVS/Editor/UnityVS.VersionSpecific.dll*
